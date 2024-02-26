@@ -1,0 +1,2 @@
+ders='python'
+konu='modüller'
